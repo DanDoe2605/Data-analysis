@@ -1,4 +1,4 @@
-# Data-analysis
+# Data-analysis-proyecto-inmobiliario
 Este es un proyecto simple que compende un breve webscrapping, limpieza y transformación de datos para generar histograma que resumen las características principales del dataset extraido.
 
 El dataset consiste de un censo de todas las áreas verdes registradas en la Ciudad de México. Como parte de un proyecto que busca recabar todo tipo de información de las características
